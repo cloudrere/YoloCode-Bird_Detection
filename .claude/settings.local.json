@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude plugin *)",
+      "Bash(python *)",
+      "Bash(conda activate *)",
+      "Bash(pip install *)",
+      "Bash(\"E:/software/ADeepLearning/Anaconda/envs/yolo/python.exe\" -c \"import matplotlib; print\\(matplotlib.__version__\\)\")",
+      "Bash(\"E:/software/ADeepLearning/Anaconda/envs/yolo/Scripts/pip.exe\" install *)",
+      "Bash(E:/software/ADeepLearning/Anaconda/envs/yolo/python.exe *)",
+      "Bash(git init *)",
+      "Bash(git remote *)",
+      "Bash(git add *)"
+    ]
+  }
+}
